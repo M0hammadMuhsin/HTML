@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatGPT's Personal Page</title>
+</head>
+<body>
+    <h1>ChatGPT</h1>
+    <p>Hello!
+        .</p>
+    <h2>My Hobbies</h2>
+    <ul>
+        <li>Reading</li>
+        <li>Writing</li>
+        <li>Learning new things</li>
+        <li>Helping others</li>
+    </ul>
+    <p>Check out my favorite website: <a href="https://www.openai.com" target="_blank">OpenAI</a></p>
+</body>
+</html>
